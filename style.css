@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  line-height: 1.6;
+  transition: background-color 1s ease; /* Smooth transition for slideshow */
+}
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+section {
+  border: 2px solid #ccc;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+button {
+  margin: 5px 0;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+  background: #007BFF;
+  color: white;
+  transition: background-color 0.4s ease; /* Smooth button hover */
+}
+
+button:hover {
+  background: #0056b3;
+}
+
